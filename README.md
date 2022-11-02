@@ -1,5 +1,7 @@
 # 使用 Bazel 构建 Java 项目
 
+相关教程：https://www.baeldung.com/bazel-build-tool
+
 ## 准备工作
 
 - 使用 Bazelisk 安装 Bazel `brew install bazelisk`
